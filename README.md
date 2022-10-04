@@ -1,13 +1,14 @@
 # Tarjeta-de-credito
-He creado un dicen de tarjeta de crédito con HTML y CSS con estilos responsiva y textos al margen.
+He creado un diseñó de tarjeta de crédito con HTML y CSS con estilos responsiva y textos al margen.
 
 
-Próximamente se viene nuevos desafíos, sígueme para más diseños
+Próximamente, se viene nuevos desafíos, sígueme para más!
+
 
 
 
 <-DaveDeveloperProgramer->
 
---------Pagina de ayuda---------
+--------Página de ayuda---------
 
 codinglabweb.com/
